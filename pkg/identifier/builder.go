@@ -1,5 +1,5 @@
 package identifier
 
 func GiveMeString() string {
-  return "version 1" 
+  return "version 1"
 }
